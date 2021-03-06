@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/jimmoua/express-template/actions/workflows/node.js.yml/badge.svg" alt="icon" />
+</p>
+
 # express-template
 
 This is my personal template to clone for quick setup when developing with Express development. You may clone it with
